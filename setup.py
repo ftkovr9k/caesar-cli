@@ -4,7 +4,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name="caesar",
+    name="caesartool",
     version="0.1.4",
     packages=find_packages(),
     entry_points={
