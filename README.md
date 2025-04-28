@@ -7,4 +7,4 @@ A very simple Python implementation of the Caesar Cipher encryption and decrypti
 To install the Caesar Cipher program, you can use `pip`:
 
 ```bash
-pip install caesar
+pip install caesartool
