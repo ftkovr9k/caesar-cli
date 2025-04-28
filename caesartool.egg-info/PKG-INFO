@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: caesartool
-Version: 0.1.5
+Version: 0.1.6
 Summary: A Caesar Cipher encryption and decryption program
 Home-page: https://github.com/ftkovr9k/Caesar-Encryption-Program
 Author: Farhan Khan
@@ -28,4 +28,4 @@ A very simple Python implementation of the Caesar Cipher encryption and decrypti
 To install the Caesar Cipher program, you can use `pip`:
 
 ```bash
-pip install caesar
+pip install caesartool
