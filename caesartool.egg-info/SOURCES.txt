@@ -1,10 +1,10 @@
 LICENSE.txt
 README.md
 setup.py
-caesar/__init__.py
-caesar/__main__.py
-caesar/cipher.py
-caesar/cli.py
+caesartool/__init__.py
+caesartool/__main__.py
+caesartool/cipher.py
+caesartool/cli.py
 caesartool.egg-info/PKG-INFO
 caesartool.egg-info/SOURCES.txt
 caesartool.egg-info/dependency_links.txt

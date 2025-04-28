@@ -1,4 +1,4 @@
-from caesar.cli import main
+from caesartool.cli import main
 
 if __name__ == "__main__":
     main()

@@ -1,2 +1,2 @@
 [console_scripts]
-caesar = caesar.cli:main
+caesartool = caesartool.cli:main

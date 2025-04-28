@@ -4,12 +4,12 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name="caesartool",
-    version="0.1.4",
+    name="caesartool",  # Updated name
+    version="0.1.5",
     packages=find_packages(),
-    entry_points={
+    entry_points={  # Updated entry point to reflect new package name
         'console_scripts': [
-            'caesar = caesar.cli:main',
+            'caesartool = caesartool.cli:main',  # Updated CLI entry point
         ],
     },
     install_requires=[],
